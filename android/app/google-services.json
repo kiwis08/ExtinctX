@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "478371157511",
+    "project_id": "exctinctx",
+    "storage_bucket": "exctinctx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478371157511:android:f4972f8b964d16dce1bca2",
+        "android_client_info": {
+          "package_name": "com.santiagoquihui.extinctx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478371157511-lbm8snrmduukkpgru94oj6vtdadb4tgg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfZTzmCaMQcpwkQGrWcxeyFQxtXWGaAas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478371157511-lbm8snrmduukkpgru94oj6vtdadb4tgg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478371157511:android:37b5362c444e0640e1bca2",
+        "android_client_info": {
+          "package_name": "com.santiagoquihui.extinctx.extinctx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478371157511-lbm8snrmduukkpgru94oj6vtdadb4tgg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfZTzmCaMQcpwkQGrWcxeyFQxtXWGaAas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478371157511-lbm8snrmduukkpgru94oj6vtdadb4tgg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
